@@ -3,7 +3,7 @@
 ## follow the formulas  
 <div>
 
-<img height="300" width="500" src="https://media.discordapp.net/attachments/1108011461999079467/1108025950052044820/Captura_de_Tela_2023-05-16_as_10.39.22.png?width=1920&height=816">  
+<img height="200" width="500" src="https://media.discordapp.net/attachments/1108011461999079467/1108025950052044820/Captura_de_Tela_2023-05-16_as_10.39.22.png?width=1920&height=816">  
   
   
 <img height="80" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108023479741190304/Captura_de_Tela_2023-05-16_as_10.29.36.png?width=1920&height=270">
