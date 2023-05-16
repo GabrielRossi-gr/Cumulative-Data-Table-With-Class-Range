@@ -13,8 +13,8 @@
   
 <img height="250" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629692416100/Captura_de_Tela_2023-05-16_as_10.20.56.png?width=1920&height=784">
   
-<img height="250" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629394632784/Captura_de_Tela_2023-05-16_as_10.21.03.png?width=1920&height=604">
+<img height="200" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629394632784/Captura_de_Tela_2023-05-16_as_10.21.03.png?width=1920&height=604">
 
-<img height="250" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629130395760/Captura_de_Tela_2023-05-16_as_10.21.14.png?width=1920&height=524">
+<img height="200" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629130395760/Captura_de_Tela_2023-05-16_as_10.21.14.png?width=1920&height=524">
 
 </div>
