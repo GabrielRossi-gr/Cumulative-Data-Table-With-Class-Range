@@ -18,6 +18,6 @@
 <img height="200" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108021629130395760/Captura_de_Tela_2023-05-16_as_10.21.14.png?width=1920&height=524">
 
 
-<img height="100" width="600" src="  https://media.discordapp.net/attachments/1108011461999079467/1108023479741190304/Captura_de_Tela_2023-05-16_as_10.29.36.png?width=1920&height=270">
+<img height="100" width="600" src="https://media.discordapp.net/attachments/1108011461999079467/1108023479741190304/Captura_de_Tela_2023-05-16_as_10.29.36.png?width=1920&height=270">
   
 </div>
